@@ -1,0 +1,34 @@
+[
+  {
+    "userId": 2030128216,
+    "username": "@ArtikYaYa",
+    "amount": 20,
+    "comment": "Оплата штрафа",
+    "date": "2024-11-14T19:57:50.648Z",
+    "status": "pending"
+  },
+  {
+    "userId": 2030128216,
+    "username": "@ArtikYaYa",
+    "amount": 20,
+    "comment": "Оплата штрафа",
+    "date": "2024-11-14T19:57:58.848Z",
+    "status": "pending"
+  },
+  {
+    "userId": 2030128216,
+    "username": "@ArtikYaYa",
+    "amount": 30,
+    "comment": "ечо раз",
+    "date": "2024-11-14T19:58:44.743Z",
+    "status": "approved"
+  },
+  {
+    "userId": 5463602207,
+    "username": "@davseev",
+    "amount": 30,
+    "comment": "Оплата штрафа",
+    "date": "2024-11-14T19:58:57.363Z",
+    "status": "approved"
+  }
+]
